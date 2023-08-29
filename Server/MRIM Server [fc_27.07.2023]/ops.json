@@ -1,0 +1,38 @@
+[
+  {
+    "uuid": "5d9bd373-7bca-3d7b-83b0-c6f9c933a8b3",
+    "name": "Tramwai",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "884a0d8c-27fa-4824-b3ef-94f50ea94b5f",
+    "name": "list",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "b6d6359f-db66-47d8-a217-da0c11ed4de1",
+    "name": "Arkomiko",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "78b66455-2a91-32c1-85d8-d3c4599fa96a",
+    "name": "Arkomiko",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "f20f5efc-b1df-3955-8141-8970814cb98e",
+    "name": "darkemptiness0",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "dd905e17-9456-3433-98cd-eaacf60b7975",
+    "name": "_SuperAlexdft_",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

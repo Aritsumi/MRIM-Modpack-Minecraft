@@ -1,0 +1,1274 @@
+{
+  "comforts:sleeping_bag_light_gray": {
+    "criteria": {
+      "has_the_recipe": "2023-05-27 11:13:37 +0200"
+    },
+    "done": true
+  },
+  "regrowth:rgroot/saferhedges": {
+    "criteria": {
+      "has_oak_leaves": "2023-05-15 02:05:41 +0200"
+    },
+    "done": false
+  },
+  "create:wrench_goggles": {
+    "criteria": {
+      "0": "2023-05-28 06:56:16 +0200"
+    },
+    "done": false
+  },
+  "comforts:hammock_cyan_from_white": {
+    "criteria": {
+      "has_the_recipe": "2023-05-27 11:13:37 +0200"
+    },
+    "done": true
+  },
+  "comforts:hammock_black": {
+    "criteria": {
+      "has_black_wool": "2023-05-21 15:56:36 +0200"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_light_blue": {
+    "criteria": {
+      "has_the_recipe": "2023-05-27 11:13:37 +0200"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_lime": {
+    "criteria": {
+      "has_the_recipe": "2023-05-27 11:13:37 +0200"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass": {
+    "criteria": {
+      "has_compass": "2023-05-03 20:10:04 +0200"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_lime_from_white": {
+    "criteria": {
+      "has_sleeping_bag": "2023-05-03 20:10:04 +0200"
+    },
+    "done": true
+  },
+  "quark:get_all_blossom_saplings": {
+    "criteria": {
+      "yellow": "2023-06-04 22:57:48 +0200"
+    },
+    "done": false
+  },
+  "mca:recipes/misc/needle_and_thread": {
+    "criteria": {
+      "has_item": "2023-05-03 22:47:31 +0200"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2023-05-03 23:23:13 +0200"
+    },
+    "done": true
+  },
+  "ashenwheat:recipes/scintillating_ash": {
+    "criteria": {
+      "has_item": "2023-05-03 20:10:04 +0200"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/build_citizen": {
+    "criteria": {
+      "citizens_hut": "2023-05-04 00:33:10 +0200"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/build_tavern": {
+    "criteria": {
+      "tavern": "2023-05-16 19:32:29 +0200"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/from_mahogany_planks": {
+    "criteria": {
+      "has_ingredient": "2023-05-03 20:10:04 +0200"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/from_umbran_planks": {
+    "criteria": {
+      "has_ingredient": "2023-05-03 20:10:04 +0200"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_black": {
+    "criteria": {
+      "has_black_wool": "2023-05-21 15:56:36 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2023-05-16 18:32:25 +0200"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/from_jacaranda_planks": {
+    "criteria": {
+      "has_ingredient": "2023-05-03 20:10:04 +0200"
+    },
+    "done": true
+  },
+  "comforts:hammock_red_from_white": {
+    "criteria": {
+      "has_the_recipe": "2023-05-27 11:13:37 +0200"
+    },
+    "done": true
+  },
+  "comforts:hammock_yellow": {
+    "criteria": {
+      "has_the_recipe": "2023-05-27 11:13:37 +0200"
+    },
+    "done": true
+  },
+  "minecolonies:production/root": {
+    "criteria": {
+      "builders_hut": "2023-05-03 23:45:23 +0200"
+    },
+    "done": true
+  },
+  "ashenwheat:recipes/ash_wheat_sheaf": {
+    "criteria": {
+      "has_item": "2023-05-03 20:10:04 +0200"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/place_townhall": {
+    "criteria": {
+      "build_tool_place_town_hall": "2023-05-19 23:55:55 +0200"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/from_redwood_planks": {
+    "criteria": {
+      "has_ingredient": "2023-05-03 20:10:04 +0200"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/tiki_torches": {
+    "criteria": {
+      "torch": "2023-05-03 20:10:04 +0200"
+    },
+    "done": true
+  },
+  "comforts:hammock_pink_from_white": {
+    "criteria": {
+      "has_the_recipe": "2023-05-27 11:13:37 +0200"
+    },
+    "done": true
+  },
+  "minecolonies:military/build_barracks_tower": {
+    "criteria": {
+      "barracks_tower": "2023-05-28 08:08:35 +0200"
+    },
+    "done": true
+  },
+  "beautify:frames": {
+    "criteria": {
+      "requirement": "2023-05-03 21:42:17 +0200"
+    },
+    "done": true
+  },
+  "immersive_weathering:immersive_weathering/bark_off": {
+    "criteria": {
+      "wax_off": "2023-05-03 20:19:59 +0200"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/build_town_hall": {
+    "criteria": {
+      "town_hall": "2023-05-04 00:07:31 +0200"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_porkchop": "2023-05-03 20:13:49 +0200",
+      "honey_bottle": "2023-05-21 16:46:44 +0200",
+      "cooked_mutton": "2023-05-14 22:44:18 +0200",
+      "sweet_berries": "2023-05-04 00:42:57 +0200",
+      "cooked_beef": "2023-05-03 23:18:59 +0200",
+      "baked_potato": "2023-05-04 00:50:23 +0200",
+      "apple": "2023-05-03 23:09:07 +0200",
+      "potato": "2023-05-20 00:10:46 +0200",
+      "bread": "2023-05-03 20:24:46 +0200",
+      "melon_slice": "2023-05-15 02:01:28 +0200",
+      "beetroot": "2023-05-16 18:41:38 +0200",
+      "cooked_chicken": "2023-05-16 00:20:53 +0200",
+      "carrot": "2023-05-03 20:47:56 +0200"
+    },
+    "done": false
+  },
+  "comforts:hammock_purple": {
+    "criteria": {
+      "has_purple_wool": "2023-05-20 21:03:13 +0200"
+    },
+    "done": true
+  },
+  "mca:best_friend": {
+    "criteria": {
+      "baby": "2023-05-22 20:43:50 +0200"
+    },
+    "done": true
+  },
+  "mca:grow_child": {
+    "criteria": {
+      "baby": "2023-05-22 23:04:17 +0200"
+    },
+    "done": true
+  },
+  "comforts:hammock_lime": {
+    "criteria": {
+      "has_the_recipe": "2023-05-27 11:13:37 +0200"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_pink": {
+    "criteria": {
+      "has_the_recipe": "2023-05-27 11:13:37 +0200"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/citizen_eat_food_rotten_flesh": {
+    "criteria": {
+      "citizen_eat_rotten_flesh": "2023-05-16 19:20:49 +0200"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_sapling": {
+    "criteria": {
+      "has_recipe": "2023-05-03 20:10:04 +0200"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/from_hellbark_planks": {
+    "criteria": {
+      "has_ingredient": "2023-05-03 20:10:04 +0200"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_light_blue_from_white": {
+    "criteria": {
+      "has_sleeping_bag": "2023-05-03 20:10:04 +0200"
+    },
+    "done": true
+  },
+  "beautify:trellis": {
+    "criteria": {
+      "requirement": "2023-05-03 20:19:13 +0200"
+    },
+    "done": true
+  },
+  "regrowth:rgroot/offlimits": {
+    "criteria": {
+      "has_shovel": "2023-05-03 20:37:46 +0200"
+    },
+    "done": false
+  },
+  "ashenwheat:recipes/scintilla_wheat_bale": {
+    "criteria": {
+      "has_item": "2023-05-03 20:10:04 +0200"
+    },
+    "done": true
+  },
+  "ashenwheat:recipes/ash_bread": {
+    "criteria": {
+      "has_item": "2023-05-03 20:10:04 +0200"
+    },
+    "done": true
+  },
+  "comforts:hammock_magenta": {
+    "criteria": {
+      "has_the_recipe": "2023-05-27 11:13:37 +0200"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/citizen_eat_food_first": {
+    "criteria": {
+      "citizen_eat_anything": "2023-05-03 23:30:01 +0200"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_red": {
+    "criteria": {
+      "has_red_wool": "2023-05-14 23:40:12 +0200"
+    },
+    "done": true
+  },
+  "takesapillage:root": {
+    "criteria": {
+      "always": "2023-05-03 20:10:04 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_boots": "2023-05-15 00:19:34 +0200"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_blue": {
+    "criteria": {
+      "has_the_recipe": "2023-05-27 11:13:37 +0200"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "erupting_inferno": "2023-05-03 23:26:10 +0200",
+      "cold_desert": "2023-05-16 01:00:10 +0200",
+      "coniferous_forest": "2023-05-03 22:08:20 +0200",
+      "spider_nest": "2023-05-31 23:04:39 +0200",
+      "visceral_heap": "2023-05-03 23:29:13 +0200",
+      "seasonal_orchard": "2023-05-21 16:44:02 +0200",
+      "seasonal_forest": "2023-05-03 20:18:15 +0200",
+      "fir_clearing": "2023-05-16 02:14:38 +0200",
+      "tundra": "2023-05-03 23:03:37 +0200"
+    },
+    "done": false
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2023-05-03 20:23:48 +0200"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/from_palm_planks": {
+    "criteria": {
+      "has_ingredient": "2023-05-03 20:10:04 +0200"
+    },
+    "done": true
+  },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2023-05-16 00:32:30 +0200"
+    },
+    "done": true
+  },
+  "mca:chores": {
+    "criteria": {
+      "baby": "2023-05-16 02:08:08 +0200"
+    },
+    "done": true
+  },
+  "beautify:lamps": {
+    "criteria": {
+      "requirement": "2023-05-03 22:55:47 +0200"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2023-05-16 01:18:28 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2023-05-03 20:23:51 +0200"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/from_cherry_planks": {
+    "criteria": {
+      "has_ingredient": "2023-05-03 20:10:04 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2023-05-22 21:12:57 +0200"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/root": {
+    "criteria": {
+      "supply_ship_placed": "2023-05-03 21:35:35 +0200"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2023-05-03 20:13:49 +0200"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_orange": {
+    "criteria": {
+      "has_the_recipe": "2023-05-27 11:13:37 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_rich_soil": {
+    "criteria": {
+      "get_rich_soil": "2023-05-15 22:07:46 +0200"
+    },
+    "done": true
+  },
+  "ashenwheat:recipes/scintilla_wheat_sheaf": {
+    "criteria": {
+      "has_item": "2023-05-03 20:10:04 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2023-05-03 20:23:29 +0200"
+    },
+    "done": true
+  },
+  "comforts:hammock_red": {
+    "criteria": {
+      "has_red_wool": "2023-05-14 23:40:12 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2023-05-03 20:10:04 +0200"
+    },
+    "done": true
+  },
+  "comforts:hammock_black_from_white": {
+    "criteria": {
+      "has_the_recipe": "2023-05-27 11:13:37 +0200"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/from_magic_planks": {
+    "criteria": {
+      "has_ingredient": "2023-05-03 20:10:04 +0200"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/start_builder": {
+    "criteria": {
+      "builder_request": "2023-05-03 23:29:23 +0200"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/build_builder_2": {
+    "criteria": {
+      "builders_hut": "2023-06-02 19:26:58 +0200"
+    },
+    "done": true
+  },
+  "beautify:lamp_jar": {
+    "criteria": {
+      "requirement": "2023-05-15 01:30:57 +0200"
+    },
+    "done": true
+  },
+  "comforts:hammock_gray_from_white": {
+    "criteria": {
+      "has_the_recipe": "2023-05-27 11:13:37 +0200"
+    },
+    "done": true
+  },
+  "mca:friend": {
+    "criteria": {
+      "baby": "2023-05-16 01:25:32 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:pillager": "2023-05-16 00:56:39 +0200",
+      "minecraft:skeleton": "2023-05-03 21:50:35 +0200",
+      "minecraft:ghast": "2023-05-16 00:32:30 +0200",
+      "minecraft:magma_cube": "2023-05-04 00:31:22 +0200",
+      "minecraft:spider": "2023-05-16 18:25:21 +0200",
+      "minecraft:creeper": "2023-05-03 22:05:23 +0200",
+      "minecraft:phantom": "2023-05-22 21:14:51 +0200",
+      "minecraft:zombified_piglin": "2023-05-16 00:26:53 +0200",
+      "minecraft:piglin": "2023-05-04 00:22:31 +0200",
+      "minecraft:zombie": "2023-05-03 20:23:29 +0200"
+    },
+    "done": false
+  },
+  "corail_woodcutter:recipes/from_spruce_planks": {
+    "criteria": {
+      "has_ingredient": "2023-05-03 21:43:55 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2023-05-03 23:23:13 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2023-05-16 20:27:24 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_skillet": {
+    "criteria": {
+      "skillet": "2023-05-24 19:01:38 +0200"
+    },
+    "done": true
+  },
+  "create:encased_fan": {
+    "criteria": {
+      "0": "2023-05-28 07:28:59 +0200"
+    },
+    "done": true
+  },
+  "comforts:hammock_lime_from_white": {
+    "criteria": {
+      "has_the_recipe": "2023-05-27 11:13:37 +0200"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/check_out_guide": {
+    "criteria": {
+      "click_gui_button_close": "2023-05-15 21:51:13 +0200"
+    },
+    "done": true
+  },
+  "comforts:hammock_orange_from_white": {
+    "criteria": {
+      "has_the_recipe": "2023-05-27 11:13:37 +0200"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/family_tree": {
+    "criteria": {
+      "has_item": "2023-05-03 23:08:19 +0200"
+    },
+    "done": true
+  },
+  "mca:root": {
+    "criteria": {
+      "village_taiga": "2023-05-03 20:10:05 +0200",
+      "village_savanna": "2023-05-03 20:10:05 +0200",
+      "village_snowy": "2023-05-03 20:10:05 +0200",
+      "village_desert": "2023-05-03 20:10:05 +0200",
+      "village_plains": "2023-05-03 20:10:05 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2023-05-16 02:07:35 +0200"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_light_gray_from_white": {
+    "criteria": {
+      "has_sleeping_bag": "2023-05-03 20:10:04 +0200"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2023-05-03 20:10:04 +0200"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_log": {
+    "criteria": {
+      "has_recipe": "2023-05-03 20:10:04 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2023-05-16 00:47:03 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2023-05-03 20:26:37 +0200"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/colony_population_25": {
+    "criteria": {
+      "population_25": "2023-05-25 13:17:02 +0200"
+    },
+    "done": true
+  },
+  "comforts:hammock_blue": {
+    "criteria": {
+      "has_the_recipe": "2023-05-27 11:13:37 +0200"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/build_builder": {
+    "criteria": {
+      "builders_hut": "2023-05-03 23:45:23 +0200"
+    },
+    "done": true
+  },
+  "comforts:hammock_gray": {
+    "criteria": {
+      "has_the_recipe": "2023-05-27 11:13:37 +0200"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2023-05-03 23:32:07 +0200"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/rose_gold_dust": {
+    "criteria": {
+      "has_item": "2023-05-15 01:26:18 +0200"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/wooden": {
+    "criteria": {
+      "has_item": "2023-05-03 20:18:41 +0200"
+    },
+    "done": true
+  },
+  "beautify:progression/root": {
+    "criteria": {
+      "Install": "2023-05-03 20:10:04 +0200"
+    },
+    "done": true
+  },
+  "mca:recipes/building_blocks/headstones": {
+    "criteria": {
+      "has_ingredients": "2023-05-03 20:23:48 +0200"
+    },
+    "done": true
+  },
+  "comforts:hammock_white": {
+    "criteria": {
+      "has_white_wool": "2023-05-03 21:42:17 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "cabbage": "2023-05-21 15:45:34 +0200",
+      "sweet_berries": "2023-05-04 00:50:02 +0200",
+      "beetroot": "2023-05-28 08:29:42 +0200",
+      "potato": "2023-05-16 00:05:37 +0200",
+      "nether_wart": "2023-05-04 00:14:38 +0200",
+      "wheat": "2023-05-15 01:17:36 +0200",
+      "melon": "2023-05-21 15:50:22 +0200",
+      "carrot": "2023-05-28 08:27:16 +0200"
+    },
+    "done": false
+  },
+  "comforts:sleeping_bag_green_from_white": {
+    "criteria": {
+      "has_sleeping_bag": "2023-05-03 20:10:04 +0200"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/straddler": {
+    "criteria": {
+      "killed_by": "2023-05-04 00:01:31 +0200"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/froststalker_kill": {
+    "criteria": {
+      "ex": "2023-05-16 02:04:44 +0200"
+    },
+    "done": true
+  },
+  "create:copper": {
+    "criteria": {
+      "0": "2023-05-03 22:55:47 +0200"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_black_from_white": {
+    "criteria": {
+      "has_sleeping_bag": "2023-05-03 20:10:04 +0200"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/colony_population_10": {
+    "criteria": {
+      "population_10": "2023-05-21 07:08:56 +0200"
+    },
+    "done": true
+  },
+  "create:water_wheel": {
+    "criteria": {
+      "0": "2023-05-28 07:24:46 +0200"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/banana_slug": {
+    "criteria": {
+      "interact": "2023-05-15 00:42:13 +0200"
+    },
+    "done": true
+  },
+  "comforts:hammock_light_blue_from_white": {
+    "criteria": {
+      "has_the_recipe": "2023-05-27 11:13:37 +0200"
+    },
+    "done": true
+  },
+  "beautify:rope": {
+    "criteria": {
+      "requirement": "2023-05-15 01:30:52 +0200"
+    },
+    "done": true
+  },
+  "ashenwheat:recipes/thunder_seeds": {
+    "criteria": {
+      "has_item": "2023-05-03 20:10:04 +0200"
+    },
+    "done": true
+  },
+  "beautify:botanist_workbench": {
+    "criteria": {
+      "requirement": "2023-05-16 19:26:46 +0200"
+    },
+    "done": true
+  },
+  "beautify:candleabras": {
+    "criteria": {
+      "requirement": "2023-05-20 00:28:37 +0200"
+    },
+    "done": true
+  },
+  "ashenwheat:recipes/ash_wheat_bale": {
+    "criteria": {
+      "has_item": "2023-05-03 20:10:04 +0200"
+    },
+    "done": true
+  },
+  "comforts:hammock_cyan": {
+    "criteria": {
+      "has_the_recipe": "2023-05-27 11:13:37 +0200"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/from_dark_oak_planks": {
+    "criteria": {
+      "has_ingredient": "2023-05-03 20:22:33 +0200"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_purple": {
+    "criteria": {
+      "has_purple_wool": "2023-05-20 21:03:13 +0200"
+    },
+    "done": true
+  },
+  "quark:get_all_corundum": {
+    "criteria": {
+      "blue": "2023-05-03 22:21:58 +0200"
+    },
+    "done": false
+  },
+  "corail_woodcutter:recipes/from_fir_planks": {
+    "criteria": {
+      "has_ingredient": "2023-05-03 20:10:04 +0200"
+    },
+    "done": true
+  },
+  "immersive_weathering:immersive_weathering/weeds": {
+    "criteria": {
+      "wheat": "2023-05-03 20:41:36 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "onion": "2023-05-03 21:02:24 +0200"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_purple_from_white": {
+    "criteria": {
+      "has_sleeping_bag": "2023-05-03 20:10:04 +0200"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_yellow": {
+    "criteria": {
+      "has_the_recipe": "2023-05-27 11:13:37 +0200"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/bone": {
+    "criteria": {
+      "has_item": "2023-05-03 21:50:35 +0200"
+    },
+    "done": true
+  },
+  "comforts:hammock_light_gray": {
+    "criteria": {
+      "has_the_recipe": "2023-05-27 11:13:37 +0200"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_orange_from_white": {
+    "criteria": {
+      "has_sleeping_bag": "2023-05-03 20:10:04 +0200"
+    },
+    "done": true
+  },
+  "comforts:hammock_yellow_from_white": {
+    "criteria": {
+      "has_the_recipe": "2023-05-27 11:13:37 +0200"
+    },
+    "done": true
+  },
+  "ashenwheat:recipes/calcified_ash": {
+    "criteria": {
+      "has_item": "2023-05-03 20:10:04 +0200"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/comb": {
+    "criteria": {
+      "has_item": "2023-05-03 22:47:31 +0200"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/from_mangrove_planks": {
+    "criteria": {
+      "has_ingredient": "2023-05-03 20:10:04 +0200"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_blue_from_white": {
+    "criteria": {
+      "has_sleeping_bag": "2023-05-03 20:10:04 +0200"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "seasonal_forest": "2023-05-03 20:18:15 +0200"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_green": {
+    "criteria": {
+      "has_green_wool": "2023-05-14 22:46:16 +0200"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/bouquet": {
+    "criteria": {
+      "has_item": "2023-05-03 20:11:17 +0200"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_brown_from_white": {
+    "criteria": {
+      "has_the_recipe": "2023-05-03 20:10:04 +0200",
+      "has_sleeping_bag": "2023-05-03 20:10:04 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2023-05-03 22:47:42 +0200"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_white": {
+    "criteria": {
+      "has_white_wool": "2023-05-03 21:42:17 +0200"
+    },
+    "done": true
+  },
+  "comforts:hammock_light_gray_from_white": {
+    "criteria": {
+      "has_the_recipe": "2023-05-27 11:13:37 +0200"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_brown": {
+    "criteria": {
+      "has_the_recipe": "2023-05-27 11:13:37 +0200"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_gray": {
+    "criteria": {
+      "has_the_recipe": "2023-05-27 11:13:37 +0200"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/wither": {
+    "criteria": {
+      "has_item": "2023-06-06 22:29:51 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2023-05-03 20:22:13 +0200"
+    },
+    "done": true
+  },
+  "create:track_0": {
+    "criteria": {
+      "0": "2023-05-23 01:10:09 +0200"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/whistle": {
+    "criteria": {
+      "has_item": "2023-05-03 22:47:31 +0200"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/build_mysticalsite": {
+    "criteria": {
+      "mysticalsite": "2023-05-28 08:52:31 +0200"
+    },
+    "done": true
+  },
+  "comforts:hammock_light_blue": {
+    "criteria": {
+      "has_the_recipe": "2023-05-27 11:13:37 +0200"
+    },
+    "done": true
+  },
+  "comforts:rope_and_nail": {
+    "criteria": {
+      "has_the_recipe": "2023-05-27 11:13:37 +0200"
+    },
+    "done": true
+  },
+  "beautify:blinds": {
+    "criteria": {
+      "requirement": "2023-05-03 20:19:13 +0200"
+    },
+    "done": true
+  },
+  "minecolonies:minecraft/craft_supply": {
+    "criteria": {
+      "supply_ship": "2023-05-03 21:35:35 +0200"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/potions": {
+    "criteria": {
+      "has_item": "2023-05-03 20:51:40 +0200"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/lantern": {
+    "criteria": {
+      "lantern": "2023-05-03 20:10:04 +0200"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_red_from_white": {
+    "criteria": {
+      "has_sleeping_bag": "2023-05-03 20:10:04 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2023-05-03 20:23:29 +0200"
+    },
+    "done": true
+  },
+  "beautify:iron_blinds": {
+    "criteria": {
+      "requirement": "2023-05-03 22:47:31 +0200"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2023-05-03 23:18:21 +0200"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_magenta_from_white": {
+    "criteria": {
+      "has_sleeping_bag": "2023-05-03 20:10:04 +0200"
+    },
+    "done": true
+  },
+  "comforts:hammock_magenta_from_white": {
+    "criteria": {
+      "has_the_recipe": "2023-05-27 11:13:37 +0200"
+    },
+    "done": true
+  },
+  "comforts:hammock_brown_from_white": {
+    "criteria": {
+      "has_the_recipe": "2023-05-27 11:13:37 +0200"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2023-05-16 00:17:47 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:frozen_river": "2023-05-15 00:00:34 +0200",
+      "minecraft:beach": "2023-05-03 20:46:01 +0200",
+      "minecraft:river": "2023-05-03 20:14:01 +0200",
+      "minecraft:snowy_plains": "2023-05-03 23:16:26 +0200",
+      "minecraft:cold_ocean": "2023-05-14 23:14:01 +0200",
+      "minecraft:forest": "2023-05-15 23:49:28 +0200",
+      "minecraft:ice_spikes": "2023-05-16 01:01:51 +0200",
+      "minecraft:meadow": "2023-06-02 17:34:22 +0200",
+      "minecraft:plains": "2023-05-03 20:10:05 +0200"
+    },
+    "done": false
+  },
+  "comforts:hammock_blue_from_white": {
+    "criteria": {
+      "has_the_recipe": "2023-05-27 11:13:37 +0200"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_gray_from_white": {
+    "criteria": {
+      "has_the_recipe": "2023-05-03 20:10:04 +0200",
+      "has_sleeping_bag": "2023-05-03 20:10:04 +0200"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/from_dead_planks": {
+    "criteria": {
+      "has_ingredient": "2023-05-03 20:10:04 +0200"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2023-05-04 00:58:51 +0200"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/colony_population_5": {
+    "criteria": {
+      "population_5": "2023-05-16 19:40:50 +0200"
+    },
+    "done": true
+  },
+  "beautify:bookstack": {
+    "criteria": {
+      "requirement": "2023-05-14 23:44:23 +0200"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_cyan": {
+    "criteria": {
+      "has_the_recipe": "2023-05-27 11:13:37 +0200"
+    },
+    "done": true
+  },
+  "comforts:hammock_purple_from_white": {
+    "criteria": {
+      "has_the_recipe": "2023-05-27 11:13:37 +0200"
+    },
+    "done": true
+  },
+  "ashenwheat:recipes/unstable_soot": {
+    "criteria": {
+      "has_item": "2023-05-03 20:10:04 +0200"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "nether_wart": "2023-05-04 00:14:38 +0200"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2023-05-04 00:33:09 +0200"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/staff_of_life": {
+    "criteria": {
+      "has_item": "2023-05-19 23:09:56 +0200"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_pink_from_white": {
+    "criteria": {
+      "has_sleeping_bag": "2023-05-03 20:10:04 +0200"
+    },
+    "done": true
+  },
+  "minecolonies:military/army_8": {
+    "criteria": {
+      "population_5": "2023-05-28 09:36:13 +0200"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/paper_lamp": {
+    "criteria": {
+      "paper": "2023-05-03 20:10:04 +0200"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_yellow_from_white": {
+    "criteria": {
+      "has_sleeping_bag": "2023-05-03 20:10:04 +0200"
+    },
+    "done": true
+  },
+  "ashenwheat:recipes/ossid_root": {
+    "criteria": {
+      "has_item": "2023-05-03 20:10:04 +0200"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/robe": {
+    "criteria": {
+      "has_item": "2023-05-03 21:42:18 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "iron_knife": "2023-05-03 22:48:05 +0200"
+    },
+    "done": true
+  },
+  "comforts:hammock_green_from_white": {
+    "criteria": {
+      "has_the_recipe": "2023-05-27 11:13:37 +0200"
+    },
+    "done": true
+  },
+  "comforts:hammock_orange": {
+    "criteria": {
+      "has_the_recipe": "2023-05-27 11:13:37 +0200"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/citizen_bury": {
+    "criteria": {
+      "buried": "2023-06-05 20:58:57 +0200"
+    },
+    "done": true
+  },
+  "comforts:hammock_pink": {
+    "criteria": {
+      "has_the_recipe": "2023-05-27 11:13:37 +0200"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2023-05-03 23:23:14 +0200",
+      "minecraft:basalt_deltas": "2023-05-03 23:26:39 +0200",
+      "minecraft:warped_forest": "2023-05-03 23:28:03 +0200"
+    },
+    "done": false
+  },
+  "comforts:sleeping_bag_magenta": {
+    "criteria": {
+      "has_the_recipe": "2023-05-27 11:13:37 +0200"
+    },
+    "done": true
+  },
+  "mca:grow_adult": {
+    "criteria": {
+      "baby": "2023-05-16 01:22:46 +0200"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/from_birch_planks": {
+    "criteria": {
+      "has_ingredient": "2023-05-03 21:45:22 +0200"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/heavy": {
+    "criteria": {
+      "has_item": "2023-05-23 17:15:57 +0200"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_cyan_from_white": {
+    "criteria": {
+      "has_sleeping_bag": "2023-05-03 20:10:04 +0200"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/from_warped_planks": {
+    "criteria": {
+      "has_ingredient": "2023-05-03 23:38:29 +0200"
+    },
+    "done": true
+  },
+  "comforts:hammock_brown": {
+    "criteria": {
+      "has_the_recipe": "2023-05-27 11:13:37 +0200"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/blueprint": {
+    "criteria": {
+      "has_item": "2023-05-16 00:04:21 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2023-05-03 22:47:31 +0200"
+    },
+    "done": true
+  },
+  "comforts:hammock_green": {
+    "criteria": {
+      "has_green_wool": "2023-05-14 22:46:16 +0200"
+    },
+    "done": true
+  },
+  "immersive_weathering:immersive_weathering/dirts": {
+    "criteria": {
+      "grass": "2023-05-23 02:29:00 +0200",
+      "dirt": "2023-05-03 20:23:36 +0200"
+    },
+    "done": false
+  },
+  "corail_woodcutter:recipes/from_willow_planks": {
+    "criteria": {
+      "has_ingredient": "2023-05-03 20:10:04 +0200"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/lamps_ceilings": {
+    "criteria": {
+      "ceiling": "2023-05-03 20:10:04 +0200"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/from_oak_planks": {
+    "criteria": {
+      "has_ingredient": "2023-05-03 20:34:22 +0200"
+    },
+    "done": true
+  },
+  "DataVersion": 3120
+}
