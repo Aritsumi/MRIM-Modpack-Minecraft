@@ -1,0 +1,22 @@
+{
+  "profession": "minecraft:cleric",
+  "removeOtherTrades": false,
+  "trades": [
+    {
+      "offer": {
+        "itemKey": "minecraft:blaze_powder",
+        "amount": 4
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 5
+      },
+      "tradeExp": 5,
+      "maxUses": 5,
+      "priceMultiplier": 0.1,
+      "demand": 0,
+      "tradeLevel": 2,
+      "UTID": "minecraft:cleric_blaze_powder_for_emerald"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+    "parts": 2,
+    "order": "WESTERN",
+    "male_firstname": [
+      "Five",
+      "Nan",
+      "Lost",
+      "LostNan"
+    ],
+    "female_firstname": [
+      "Mio",
+      "Miomi",
+      "Dori"
+    ],
+    "surnames": [
+      "Nan"
+    ]
+  }

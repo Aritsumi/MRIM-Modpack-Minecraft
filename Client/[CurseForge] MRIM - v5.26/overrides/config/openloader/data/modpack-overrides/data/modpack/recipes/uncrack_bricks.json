@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smelting",
+    "ingredient": {
+      "item": "immersive_weathering:cracked_bricks"
+    },
+    "result": "minecraft:bricks",
+    "experience": 0.1,
+    "cookingtime": 200
+  }

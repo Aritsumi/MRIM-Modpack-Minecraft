@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:villager",
+    "minecraft:iron_golem",
+    "minecolonies:citizen", 
+    "mca:female_villager", 
+    "mca:male_villager"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "#minecraft:wool": 1.20,
+  "#forge:wool": 1.20,
+  "#minecraft:wool_carpets": 1.20,	
+  "#minecraft:planks": 1.10,
+  "#minecraft:wooden_stairs": 1.15,
+  "#domum_ornamentum:bricks": 1.30,
+  "#minecolonies:pathblocks": 1.25,
+  "minecraft:dirt_path": 1.15,
+  "minecraft:gravel": 1.10,
+  "minecraft:end_stone_bricks": 1.30,
+  "minecraft:end_stone_brick_stairs": 1.30
+}

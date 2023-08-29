@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "domum_ornamentum:vanilla_slab_compat",
+    "domum_ornamentum:vanilla_stairs_compat",
+    "#minecraft:wool",
+    "#minecraft:wool_carpets"
+  ]
+}

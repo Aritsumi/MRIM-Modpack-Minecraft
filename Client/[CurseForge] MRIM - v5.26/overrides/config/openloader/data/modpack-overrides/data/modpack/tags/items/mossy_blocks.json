@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+      "#forge:cobblestone/mossy",
+      "minecraft:mossy_stone_bricks",
+      "immersive_weathering:mossy_bricks",
+      "immersive_weathering:mossy_stone"
+    ]
+  }

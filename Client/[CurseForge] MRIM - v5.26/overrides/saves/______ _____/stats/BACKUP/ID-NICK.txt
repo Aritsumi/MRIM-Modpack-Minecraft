@@ -1,0 +1,10 @@
+{ //lic
+  "b6d6359f-db66-47d8-a217-da0c11ed4de1": "Arkomiko",
+  "cab22d96-2e73-4afd-a6fc-bb9cee353b74": "StoringOne",
+  "ecc5587a-d069-4f38-a11f-7bcb7e03c125": "Tramwai",
+    
+  //pirat
+  "dd905e17-9456-3433-98cd-eaacf60b7975": "_SuperAlexdft_",
+  "78b66455-2a91-32c1-85d8-d3c4599fa96a": "Arkomiko",
+  "5d9bd373-7bca-3d7b-83b0-c6f9c933a8b3": "Tramwai"
+}

@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "group": "immersive_weathering",
+    "ingredients": [
+      {
+        "tag": "modpack:mossy_blocks"
+      }
+    ],
+    "result": {
+      "item": "immersive_weathering:moss_clump",
+      "count": 4
+    }
+  }
+  

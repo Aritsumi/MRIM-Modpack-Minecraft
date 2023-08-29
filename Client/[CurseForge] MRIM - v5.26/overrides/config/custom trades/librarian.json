@@ -1,0 +1,34 @@
+{
+  "profession": "minecraft:librarian",
+  "removeOtherTrades": false,
+  "trades": [
+    {
+      "offer": {
+        "itemKey": "minecraft:enchanted_book",
+        "amount": 1,
+        "enchantments": [
+          {
+            "enchantmentKey": "minecraft:mending",
+            "enchantmentLevel": 1,
+            "maxEnchantmentLevel": 1
+          }
+        ]
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 25,
+        "amountRange": 15
+      },
+      "additionalRequest": {
+        "itemKey": "minecraft:enchanted_book",
+        "amount": 1
+      },
+      "tradeExp": 15,
+      "maxUses": 1,
+      "priceMultiplier": 0.2,
+      "demand": 0,
+      "tradeLevel": 1,
+      "UTID": "minecraft:librarian_enchanted_book_for_emerald_and_enchanted_book"
+    }
+  ]
+}

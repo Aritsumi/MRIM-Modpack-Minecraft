@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 0 ",
+    "121"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:leather_helmet"
+    },
+    "1": {
+      "item": "minecraft:wooden_pickaxe"
+    },
+    "2": {
+      "item": "minecraft:carved_pumpkin"
+    }
+  },
+  "result": {
+    "item": "minecraft:player_head",
+    "count": 1
+  }
+}

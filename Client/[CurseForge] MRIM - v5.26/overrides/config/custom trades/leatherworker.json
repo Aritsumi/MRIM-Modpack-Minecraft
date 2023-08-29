@@ -1,0 +1,28 @@
+{
+  "profession": "minecraft:leatherworker",
+  "removeOtherTrades": false,
+  "trades": [
+    {
+      "offer": {
+        "itemKey": "quark:ravager_hide",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 34,
+        "amountRange": 10
+      },
+      "additionalRequest": {
+        "itemKey": "minecraft:rabbit_hide",
+        "amount": 4,
+        "amountRange": 3
+      },
+      "tradeExp": 20,
+      "maxUses": 1,
+      "priceMultiplier": 0.2,
+      "demand": 0,
+      "tradeLevel": 5,
+      "UTID": "minecraft:leatherworker_ravager_hide_for_emerald_and_rabbit_hide"
+    }
+  ]
+}

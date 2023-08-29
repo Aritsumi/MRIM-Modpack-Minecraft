@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "x1x",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "x": {
+      "item": "minecraft:emerald"
+    },
+    "1": {
+      "item": "minecraft:carved_pumpkin"
+    },
+    "3": {
+      "item": "minecraft:gold_block"
+    },
+    "4": {
+      "item": "minecraft:enchanted_golden_apple"
+    },
+    "5": {
+      "item": "minecraft:gold_block"
+    },
+    "7": {
+      "item": "minecraft:gold_block"
+    }
+  },
+  "result": {
+    "item": "minecraft:totem_of_undying",
+    "count": 1
+  }
+}

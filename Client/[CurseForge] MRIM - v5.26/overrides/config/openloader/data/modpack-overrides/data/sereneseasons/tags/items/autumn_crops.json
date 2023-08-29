@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+	"endercrop:ender_seeds",
+  "ashenwheat:ossid_seeds",
+  "ashenwheat:ossid_root",
+  "ashenwheat:rotten_seeds",
+  "ashenwheat:flax_seed",
+  "ashenwheat:flax_fibre"
+  ]
+}

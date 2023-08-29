@@ -1,0 +1,466 @@
+{
+    "profession": "wanderer",
+    "removeOtherTrades": false,
+    "trades": [
+        {
+            "isRare": false,
+            "offer": {
+                "itemKey": "minecraft:emerald",
+                "amount": 1,
+                "amountRange": 4
+            },
+            "request": {
+                "itemKey": "minecraft:rotten_flesh",
+                "amount": 32,
+                "amountRange": 32
+            },
+            "tradeExp": 3,
+            "maxUses": 3,
+            "priceMultiplier": 0.1,
+            "demand": 0,
+            "tradeLevel": 1
+        },
+        {
+            "isRare": false,
+            "offer": {
+                "itemKey": "minecraft:emerald",
+                "amount": 1,
+                "amountRange": 4
+            },
+            "request": {
+                "itemKey": "minecraft:charcoal",
+                "amount": 32,
+                "amountRange": 32
+            },
+            "tradeExp": 3,
+            "maxUses": 3,
+            "priceMultiplier": 0.1,
+            "demand": 0,
+            "tradeLevel": 1
+        },
+        {
+            "isRare": false,
+            "offer": {
+                "itemKey": "minecraft:lava_bucket",
+                "amount": 1
+            },
+            "request": {
+                "itemKey": "minecraft:emerald",
+                "amount": 3,
+                "amountRange": 7
+            },
+            "tradeExp": 3,
+            "maxUses": 3,
+            "priceMultiplier": 0.1,
+            "demand": 0,
+            "tradeLevel": 1
+        },
+        {
+            "isRare": false,
+            "offer": {
+                "itemKey": "minecraft:quartz",
+                "amount": 3,
+                "amountRange": 10
+            },
+            "request": {
+                "itemKey": "minecraft:emerald",
+                "amount": 3,
+                "amountRange": 12
+            },
+            "tradeExp": 3,
+            "maxUses": 1,
+            "priceMultiplier": 0.1,
+            "demand": 0,
+            "tradeLevel": 1
+        },
+        {
+            "isRare": false,
+            "offer": {
+                "itemKey": "minecraft:redstone",
+                "amount": 5,
+                "amountRange": 20
+            },
+            "request": {
+                "itemKey": "minecraft:emerald",
+                "amount": 5,
+                "amountRange": 10
+            },
+            "tradeExp": 3,
+            "maxUses": 1,
+            "priceMultiplier": 0.1,
+            "demand": 0,
+            "tradeLevel": 1
+        },
+        {
+            "isRare": false,
+            "offer": {
+                "itemKey": "minecraft:lapis_lazuli",
+                "amount": 5,
+                "amountRange": 20
+            },
+            "request": {
+                "itemKey": "minecraft:emerald",
+                "amount": 5,
+                "amountRange": 15
+            },
+            "tradeExp": 3,
+            "maxUses": 1,
+            "priceMultiplier": 0.1,
+            "demand": 0,
+            "tradeLevel": 1
+        },
+        {
+            "isRare": false,
+            "offer": {
+                "itemKey": "minecraft:diamond",
+                "amount": 2,
+                "amountRange": 4
+            },
+            "request": {
+                "itemKey": "minecraft:emerald",
+                "amount": 10,
+                "amountRange": 20
+            },
+            "tradeExp": 3,
+            "maxUses": 1,
+            "priceMultiplier": 0.1,
+            "demand": 0,
+            "tradeLevel": 1
+        },
+        {
+            "isRare": false,
+            "offer": {
+                "itemKey": "minecraft:raw_gold",
+                "amount": 5,
+                "amountRange": 35
+            },
+            "request": {
+                "itemKey": "minecraft:emerald",
+                "amount": 7,
+                "amountRange": 13
+            },
+            "tradeExp": 3,
+            "maxUses": 1,
+            "priceMultiplier": 0.1,
+            "demand": 0,
+            "tradeLevel": 1
+        },
+        {
+            "isRare": false,
+            "offer": {
+                "itemKey": "minecraft:raw_iron",
+                "amount": 5,
+                "amountRange": 35
+            },
+            "request": {
+                "itemKey": "minecraft:emerald",
+                "amount": 5,
+                "amountRange": 10
+            },
+            "tradeExp": 3,
+            "maxUses": 1,
+            "priceMultiplier": 0.1,
+            "demand": 0,
+            "tradeLevel": 1
+        },
+        {
+            "isRare": false,
+            "offer": {
+                "itemKey": "minecraft:raw_copper",
+                "amount": 5,
+                "amountRange": 35
+            },
+            "request": {
+                "itemKey": "minecraft:emerald",
+                "amount": 5,
+                "amountRange": 10
+            },
+            "tradeExp": 3,
+            "maxUses": 1,
+            "priceMultiplier": 0.1,
+            "demand": 0,
+            "tradeLevel": 1
+        },
+        {
+            "isRare": false,
+            "offer": {
+                "itemKey": "minecraft:ender_pearl",
+                "amount": 3,
+                "amountRange": 2
+            },
+            "request": {
+                "itemKey": "minecraft:emerald",
+                "amount": 5,
+                "amountRange": 10
+            },
+            "tradeExp": 3,
+            "maxUses": 1,
+            "priceMultiplier": 0.1,
+            "demand": 0,
+            "tradeLevel": 1
+        },
+        {
+            "isRare": false,
+            "offer": {
+                "itemKey": "minecraft:enchanted_book",
+                "amount": 1,
+                "enchantments": [
+                    {
+                      "enchantmentKey": "random",
+                      "enchantmentLevel": -1,
+                      "maxEnchantmentLevel": 3
+                    }
+                  ]
+            },
+            "request": {
+                "itemKey": "minecraft:emerald",
+                "amount": 10,
+                "amountRange": 15
+            },
+            "additionalRequest": {
+                "itemKey": "minecraft:book",
+                "amount": 1
+            },
+            "tradeExp": 3,
+            "maxUses": 1,
+            "priceMultiplier": 0.1,
+            "demand": 0,
+            "tradeLevel": 1
+        },
+        {
+            "isRare": true,
+            "offer": {
+                "itemKey": "minecraft:enchanted_book",
+                "amount": 1,
+                "enchantments": [
+                    {
+                      "enchantmentKey": "random",
+                      "enchantmentLevel": -1,
+                      "maxEnchantmentLevel": 5
+                    }
+                  ]
+            },
+            "request": {
+                "itemKey": "minecraft:emerald",
+                "amount": 10,
+                "amountRange": 25
+            },
+            "additionalRequest": {
+                "itemKey": "minecraft:enchanted_book",
+                "amount": 1
+            },
+            "tradeExp": 3,
+            "maxUses": 1,
+            "priceMultiplier": 0.1,
+            "demand": 0,
+            "tradeLevel": 1
+        },
+        {
+            "isRare": true,
+            "offer": {
+                "itemKey": "quark:ancient_sapling",
+                "amount": 1
+            },
+            "request": {
+                "itemKey": "minecraft:emerald",
+                "amount": 20,
+                "amountRange": 30
+            },
+            "additionalRequest": {
+                "itemKey": "minecraft:oak_sapling",
+                "amount": 30,
+                "amountRange": 35
+            },
+            "tradeExp": 3,
+            "maxUses": 1,
+            "priceMultiplier": 0.1,
+            "demand": 0,
+            "tradeLevel": 1
+        },
+        {
+            "isRare": true,
+            "offer": {
+                "itemKey": "minecraft:heart_of_the_sea",
+                "amount": 1
+            },
+            "request": {
+                "itemKey": "minecraft:emerald",
+                "amount": 35,
+                "amountRange": 30
+            },
+            "additionalRequest": {
+                "itemKey": "minecraft:prismarine_crystals",
+                "amount": 15,
+                "amountRange": 30
+            },
+            "tradeExp": 3,
+            "maxUses": 1,
+            "priceMultiplier": 0.2,
+            "demand": 0,
+            "tradeLevel": 1
+        },
+        {
+            "isRare": true,
+            "offer": {
+                "itemKey": "minecraft:nether_star",
+                "amount": 1
+            },
+            "request": {
+                "itemKey": "minecraft:emerald",
+                "amount": 54,
+                "amountRange": 10
+            },
+            "additionalRequest": {
+                "itemKey": "minecraft:blaze_powder",
+                "amount": 30,
+                "amountRange": 34
+            },
+            "tradeExp": 3,
+            "maxUses": 1,
+            "priceMultiplier": 0.2,
+            "demand": 0,
+            "tradeLevel": 1
+        },
+        {
+            "isRare": true,
+            "offer": {
+                "itemKey": "minecraft:dragon_breath",
+                "amount": 1,
+                "amountRange": 3
+            },
+            "request": {
+                "itemKey": "minecraft:emerald",
+                "amount": 5,
+                "amountRange": 25
+            },
+            "additionalRequest": {
+                "itemKey": "minecraft:lava_bucket",
+                "amount": 1
+            },
+            "tradeExp": 3,
+            "maxUses": 2,
+            "priceMultiplier": 0.1,
+            "demand": 0,
+            "tradeLevel": 1
+        },
+        {
+            "isRare": true,
+            "offer": {
+                "itemKey": "mca:staff_of_life",
+                "amount": 1
+            },
+            "request": {
+                "itemKey": "minecraft:emerald",
+                "amount": 20,
+                "amountRange": 30
+            },
+            "additionalRequest": {
+                "itemKey": "minecraft:amethyst_shard",
+                "amount": 15,
+                "amountRange": 30
+            },
+            "tradeExp": 3,
+            "maxUses": 1,
+            "priceMultiplier": 0.2,
+            "demand": 0,
+            "tradeLevel": 1
+        },
+        {
+            "isRare": true,
+            "offer": {
+                "itemKey": "immersive_weathering:steel_wool",
+                "amount": 1
+            },
+            "request": {
+                "itemKey": "minecraft:emerald",
+                "amount": 5,
+                "amountRange": 10
+            },
+            "additionalRequest": {
+                "itemKey": "minecraft:iron_ingot",
+                "amount": 3,
+                "amountRange": 5
+            },
+            "tradeExp": 3,
+            "maxUses": 1,
+            "priceMultiplier": 0.2,
+            "demand": 0,
+            "tradeLevel": 1
+        },
+        {
+            "isRare": false,
+            "offer": {
+                "itemKey": "minecraft:dirt",
+                "amount": 5,
+                "amountRange": 3
+            },
+            "request": {
+                "itemKey": "minecraft:cobblestone",
+                "amount": 5,
+                "amountRange": 3
+            },
+            "tradeExp": 4,
+            "maxUses": 5,
+            "priceMultiplier": 0.1,
+            "demand": 0,
+            "tradeLevel": 1
+        },
+        {
+            "isRare": false,
+            "offer": {
+                "itemKey": "minecraft:cobblestone",
+                "amount": 5,
+                "amountRange": 3
+            },
+            "request": {
+                "itemKey": "minecraft:dirt",
+                "amount": 5,
+                "amountRange": 3
+            },
+            "tradeExp": 4,
+            "maxUses": 5,
+            "priceMultiplier": 0.1,
+            "demand": 0,
+            "tradeLevel": 1
+        },
+        {
+            "isRare": false,
+            "offer": {
+                "itemKey": "minecraft:amethyst_shard",
+                "amount": 5,
+                "amountRange": 5
+            },
+            "request": {
+                "itemKey": "minecraft:emerald",
+                "amount": 7,
+                "amountRange": 3
+            },
+            "tradeExp": 3,
+            "maxUses": 3,
+            "priceMultiplier": 0.0,
+            "demand": 0,
+            "tradeLevel": 3
+        },
+        {
+            "isRare": true,
+            "offer": {
+                "itemKey": "create:blaze_burner",
+                "amount": 1
+            },
+            "request": {
+                "itemKey": "create:empty_blaze_burner",
+                "amount": 1
+            },
+            "additionalRequest": {
+                "itemKey": "minecraft:blaze_rod",
+                "amount": 4,
+                "amountRange": 8
+            },
+            "tradeExp": 3,
+            "maxUses": 1,
+            "priceMultiplier": 0.0,
+            "demand": 0,
+            "tradeLevel": 3
+        }
+    ]
+}

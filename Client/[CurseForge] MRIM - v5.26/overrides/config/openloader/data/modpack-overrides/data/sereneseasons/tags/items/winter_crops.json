@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+	"endercrop:ender_seeds",
+  "ashenwheat:scintilla_seeds",
+  "ashenwheat:scintilla_wheat_sheaf",
+  "ashenwheat:rotten_seeds"
+  ]
+}

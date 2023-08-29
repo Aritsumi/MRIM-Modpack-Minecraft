@@ -1,0 +1,22 @@
+{
+  "profession": "minecraft:armorer",
+  "removeOtherTrades": false,
+  "trades": [
+    {
+      "offer": {
+        "itemKey": "minecraft:iron_ingot",
+        "amount": 4
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 2
+      },
+      "tradeExp": 5,
+      "maxUses": 5,
+      "priceMultiplier": 0.1,
+      "demand": 0,
+      "tradeLevel": 1,
+      "UTID": "minecraft:armorer_iron_ingot_for_emerald"
+    }
+  ]
+}

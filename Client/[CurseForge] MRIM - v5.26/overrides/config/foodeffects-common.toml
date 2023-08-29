@@ -1,0 +1,151 @@
+
+[General]
+	# Determines if Sweet Berries and Cookies should be eaten as fast as Dried Kelp
+	# Default: true
+	eat_cookies_berries_fast = true
+
+# Default: 
+[[effects]]
+	# Determines how long the effect lasts. If set to 0, the effect will be removed.
+	# Range: [0, 1000000]
+	duration = 10.0
+	# Determines what item this effect is applied to.
+	item = "minecraft:baked_potato"
+	# Determines how strong the effect is. Amplifiers start at 0.
+	# Range: [0, 255]
+	amplifier = 0
+	# Determines what effect consuming the item will give in addition to any existing effects.
+	effect = "minecraft:strength"
+
+[[effects]]
+	# Determines how long the effect lasts. If set to 0, the effect will be removed.
+	# Range: [0, 1000000]
+	duration = 30.0
+	# Determines what item this effect is applied to.
+	item = "minecraft:beetroot_soup"
+	# Determines how strong the effect is. Amplifiers start at 0.
+	# Range: [0, 255]
+	amplifier = 0
+	# Determines what effect consuming the item will give in addition to any existing effects.
+	effect = "minecraft:health_boost"
+
+[[effects]]
+	# Determines how long the effect lasts. If set to 0, the effect will be removed.
+	# Range: [0, 1000000]
+	duration = 20.0
+	# Determines what item this effect is applied to.
+	item = "minecraft:cake"
+	# Determines how strong the effect is. Amplifiers start at 0.
+	# Range: [0, 255]
+	amplifier = 1
+	# Determines what effect consuming the item will give in addition to any existing effects.
+	effect = "minecraft:speed"
+
+[[effects]]
+	# Determines how long the effect lasts. If set to 0, the effect will be removed.
+	# Range: [0, 1000000]
+	duration = 10.0
+	# Determines what item this effect is applied to.
+	item = "minecraft:cookie"
+	# Determines how strong the effect is. Amplifiers start at 0.
+	# Range: [0, 255]
+	amplifier = 0
+	# Determines what effect consuming the item will give in addition to any existing effects.
+	effect = "minecraft:speed"
+
+[[effects]]
+	# Determines how long the effect lasts. If set to 0, the effect will be removed.
+	# Range: [0, 1000000]
+	duration = 0.0
+	# Determines what item this effect is applied to.
+	item = "minecraft:dried_kelp"
+	# Determines how strong the effect is. Amplifiers start at 0.
+	# Range: [0, 255]
+	amplifier = 0
+	# Determines what effect consuming the item will give in addition to any existing effects.
+	effect = "minecraft:blindness"
+
+[[effects]]
+	# Determines how long the effect lasts. If set to 0, the effect will be removed.
+	# Range: [0, 1000000]
+	duration = 0.0
+	# Determines what item this effect is applied to.
+	item = "minecraft:dried_kelp"
+	# Determines how strong the effect is. Amplifiers start at 0.
+	# Range: [0, 255]
+	amplifier = 0
+	# Determines what effect consuming the item will give in addition to any existing effects.
+	effect = "minecraft:nausea"
+
+[[effects]]
+	# Determines how long the effect lasts. If set to 0, the effect will be removed.
+	# Range: [0, 1000000]
+	duration = 0.0
+	# Determines what item this effect is applied to.
+	item = "minecraft:dried_kelp"
+	# Determines how strong the effect is. Amplifiers start at 0.
+	# Range: [0, 255]
+	amplifier = 0
+	# Determines what effect consuming the item will give in addition to any existing effects.
+	effect = "minecraft:poison"
+
+[[effects]]
+	# Determines how long the effect lasts. If set to 0, the effect will be removed.
+	# Range: [0, 1000000]
+	duration = 0.05
+	# Determines what item this effect is applied to.
+	item = "minecraft:honey_bottle"
+	# Determines how strong the effect is. Amplifiers start at 0.
+	# Range: [0, 255]
+	amplifier = 0
+	# Determines what effect consuming the item will give in addition to any existing effects.
+	effect = "minecraft:instant_health"
+
+[[effects]]
+	# Determines how long the effect lasts. If set to 0, the effect will be removed.
+	# Range: [0, 1000000]
+	duration = 5.0
+	# Determines what item this effect is applied to.
+	item = "minecraft:mushroom_stew"
+	# Determines how strong the effect is. Amplifiers start at 0.
+	# Range: [0, 255]
+	amplifier = 0
+	# Determines what effect consuming the item will give in addition to any existing effects.
+	effect = "minecraft:regeneration"
+
+[[effects]]
+	# Determines how long the effect lasts. If set to 0, the effect will be removed.
+	# Range: [0, 1000000]
+	duration = 10.0
+	# Determines what item this effect is applied to.
+	item = "minecraft:pufferfish"
+	# Determines how strong the effect is. Amplifiers start at 0.
+	# Range: [0, 255]
+	amplifier = 0
+	# Determines what effect consuming the item will give in addition to any existing effects.
+	effect = "minecraft:water_breathing"
+
+[[effects]]
+	# Determines how long the effect lasts. If set to 0, the effect will be removed.
+	# Range: [0, 1000000]
+	duration = 15.0
+	# Determines what item this effect is applied to.
+	item = "minecraft:pumpkin_pie"
+	# Determines how strong the effect is. Amplifiers start at 0.
+	# Range: [0, 255]
+	amplifier = 1
+	# Determines what effect consuming the item will give in addition to any existing effects.
+	effect = "minecraft:haste"
+
+[[effects]]
+	# Determines how long the effect lasts. If set to 0, the effect will be removed.
+	# Range: [0, 1000000]
+	duration = 10.0
+	# Determines what item this effect is applied to.
+	item = "minecraft:rabbit_stew"
+	# Determines how strong the effect is. Amplifiers start at 0.
+	# Range: [0, 255]
+	amplifier = 1
+	# Determines what effect consuming the item will give in addition to any existing effects.
+	effect = "minecraft:jump_boost"
+

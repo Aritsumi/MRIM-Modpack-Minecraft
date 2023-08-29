@@ -1,0 +1,1669 @@
+{
+  "toolCraftingTiers": {
+    "minecraft:diamond": 0,
+    "minecraft:iron_ingot": 1,
+    "minecraft:gold_ingot": 2,
+    "#minecraft:stone_tool_materials": 3,
+    "#minecraft:planks": 4
+  },
+  "craftingRecipes": {
+    "minecraft:oak_planks": [
+      {
+        "first": [
+          {
+            "first": "#minecraft:oak_logs",
+            "second": 1
+          }
+        ],
+        "second": 4
+      }
+    ],
+    "minecraft:oak_door": [
+      {
+        "first": [
+          {
+            "first": "minecraft:oak_planks",
+            "second": 6
+          }
+        ],
+        "second": 3
+      }
+    ],
+    "minecraft:oak_stairs": [
+      {
+        "first": [
+          {
+            "first": "minecraft:oak_planks",
+            "second": 6
+          }
+        ],
+        "second": 4
+      }
+    ],
+    "minecraft:oak_fence": [
+      {
+        "first": [
+          {
+            "first": "minecraft:oak_planks",
+            "second": 4
+          },
+          {
+            "first": "minecraft:stick",
+            "second": 2
+          }
+        ],
+        "second": 3
+      }
+    ],
+    "minecraft:oak_fence_gate": [
+      {
+        "first": [
+          {
+            "first": "minecraft:oak_planks",
+            "second": 2
+          },
+          {
+            "first": "minecraft:stick",
+            "second": 4
+          }
+        ],
+        "second": 1
+      }
+    ],
+    "minecraft:oak_slab": [
+      {
+        "first": [
+          {
+            "first": "minecraft:oak_planks",
+            "second": 3
+          }
+        ],
+        "second": 6
+      }
+    ],
+    "minecraft:dark_oak_planks": [
+      {
+        "first": [
+          {
+            "first": "#minecraft:dark_oak_logs",
+            "second": 1
+          }
+        ],
+        "second": 4
+      }
+    ],
+    "minecraft:dark_oak_door": [
+      {
+        "first": [
+          {
+            "first": "minecraft:dark_oak_planks",
+            "second": 6
+          }
+        ],
+        "second": 3
+      }
+    ],
+    "minecraft:dark_oak_stairs": [
+      {
+        "first": [
+          {
+            "first": "minecraft:dark_oak_planks",
+            "second": 6
+          }
+        ],
+        "second": 4
+      }
+    ],
+    "minecraft:dark_oak_fence": [
+      {
+        "first": [
+          {
+            "first": "minecraft:dark_oak_planks",
+            "second": 4
+          },
+          {
+            "first": "minecraft:stick",
+            "second": 2
+          }
+        ],
+        "second": 3
+      }
+    ],
+    "minecraft:dark_oak_fence_gate": [
+      {
+        "first": [
+          {
+            "first": "minecraft:dark_oak_planks",
+            "second": 2
+          },
+          {
+            "first": "minecraft:stick",
+            "second": 4
+          }
+        ],
+        "second": 1
+      }
+    ],
+    "minecraft:dark_oak_slab": [
+      {
+        "first": [
+          {
+            "first": "minecraft:dark_oak_planks",
+            "second": 3
+          }
+        ],
+        "second": 6
+      }
+    ],
+    "minecraft:spruce_planks": [
+      {
+        "first": [
+          {
+            "first": "#minecraft:spruce_logs",
+            "second": 1
+          }
+        ],
+        "second": 4
+      }
+    ],
+    "minecraft:spruce_door": [
+      {
+        "first": [
+          {
+            "first": "minecraft:spruce_planks",
+            "second": 6
+          }
+        ],
+        "second": 3
+      }
+    ],
+    "minecraft:spruce_stairs": [
+      {
+        "first": [
+          {
+            "first": "minecraft:spruce_planks",
+            "second": 6
+          }
+        ],
+        "second": 4
+      }
+    ],
+    "minecraft:spruce_fence": [
+      {
+        "first": [
+          {
+            "first": "minecraft:spruce_planks",
+            "second": 4
+          },
+          {
+            "first": "minecraft:stick",
+            "second": 2
+          }
+        ],
+        "second": 3
+      }
+    ],
+    "minecraft:spruce_fence_gate": [
+      {
+        "first": [
+          {
+            "first": "minecraft:spruce_planks",
+            "second": 2
+          },
+          {
+            "first": "minecraft:stick",
+            "second": 4
+          }
+        ],
+        "second": 1
+      }
+    ],
+    "minecraft:spruce_slab": [
+      {
+        "first": [
+          {
+            "first": "minecraft:spruce_planks",
+            "second": 3
+          }
+        ],
+        "second": 6
+      }
+    ],
+    "minecraft:birch_planks": [
+      {
+        "first": [
+          {
+            "first": "#minecraft:birch_logs",
+            "second": 1
+          }
+        ],
+        "second": 4
+      }
+    ],
+    "minecraft:birch_door": [
+      {
+        "first": [
+          {
+            "first": "minecraft:birch_planks",
+            "second": 6
+          }
+        ],
+        "second": 3
+      }
+    ],
+    "minecraft:birch_stairs": [
+      {
+        "first": [
+          {
+            "first": "minecraft:birch_planks",
+            "second": 6
+          }
+        ],
+        "second": 4
+      }
+    ],
+    "minecraft:birch_fence": [
+      {
+        "first": [
+          {
+            "first": "minecraft:birch_planks",
+            "second": 4
+          },
+          {
+            "first": "minecraft:stick",
+            "second": 2
+          }
+        ],
+        "second": 3
+      }
+    ],
+    "minecraft:birch_fence_gate": [
+      {
+        "first": [
+          {
+            "first": "minecraft:birch_planks",
+            "second": 2
+          },
+          {
+            "first": "minecraft:stick",
+            "second": 4
+          }
+        ],
+        "second": 1
+      }
+    ],
+    "minecraft:birch_slab": [
+      {
+        "first": [
+          {
+            "first": "minecraft:birch_planks",
+            "second": 3
+          }
+        ],
+        "second": 6
+      }
+    ],
+    "minecraft:acacia_planks": [
+      {
+        "first": [
+          {
+            "first": "#minecraft:acacia_logs",
+            "second": 1
+          }
+        ],
+        "second": 4
+      }
+    ],
+    "minecraft:acacia_door": [
+      {
+        "first": [
+          {
+            "first": "minecraft:acacia_planks",
+            "second": 6
+          }
+        ],
+        "second": 3
+      }
+    ],
+    "minecraft:acacia_stairs": [
+      {
+        "first": [
+          {
+            "first": "minecraft:acacia_planks",
+            "second": 6
+          }
+        ],
+        "second": 4
+      }
+    ],
+    "minecraft:acacia_fence": [
+      {
+        "first": [
+          {
+            "first": "minecraft:acacia_planks",
+            "second": 4
+          },
+          {
+            "first": "minecraft:stick",
+            "second": 2
+          }
+        ],
+        "second": 3
+      }
+    ],
+    "minecraft:acacia_fence_gate": [
+      {
+        "first": [
+          {
+            "first": "minecraft:acacia_planks",
+            "second": 2
+          },
+          {
+            "first": "minecraft:stick",
+            "second": 4
+          }
+        ],
+        "second": 1
+      }
+    ],
+    "minecraft:acacia_slab": [
+      {
+        "first": [
+          {
+            "first": "minecraft:acacia_planks",
+            "second": 3
+          }
+        ],
+        "second": 6
+      }
+    ],
+    "minecraft:jungle_planks": [
+      {
+        "first": [
+          {
+            "first": "#minecraft:jungle_logs",
+            "second": 1
+          }
+        ],
+        "second": 4
+      }
+    ],
+    "minecraft:jungle_door": [
+      {
+        "first": [
+          {
+            "first": "minecraft:jungle_planks",
+            "second": 6
+          }
+        ],
+        "second": 3
+      }
+    ],
+    "minecraft:jungle_stairs": [
+      {
+        "first": [
+          {
+            "first": "minecraft:jungle_planks",
+            "second": 6
+          }
+        ],
+        "second": 4
+      }
+    ],
+    "minecraft:jungle_fence": [
+      {
+        "first": [
+          {
+            "first": "minecraft:jungle_planks",
+            "second": 4
+          },
+          {
+            "first": "minecraft:stick",
+            "second": 2
+          }
+        ],
+        "second": 3
+      }
+    ],
+    "minecraft:jungle_fence_gate": [
+      {
+        "first": [
+          {
+            "first": "minecraft:jungle_planks",
+            "second": 2
+          },
+          {
+            "first": "minecraft:stick",
+            "second": 4
+          }
+        ],
+        "second": 1
+      }
+    ],
+    "minecraft:jungle_slab": [
+      {
+        "first": [
+          {
+            "first": "minecraft:jungle_planks",
+            "second": 3
+          }
+        ],
+        "second": 6
+      }
+    ],
+    "minecraft:mangrove_planks": [
+      {
+        "first": [
+          {
+            "first": "#minecraft:mangrove_logs",
+            "second": 1
+          }
+        ],
+        "second": 4
+      }
+    ],
+    "minecraft:mangrove_door": [
+      {
+        "first": [
+          {
+            "first": "minecraft:mangrove_planks",
+            "second": 6
+          }
+        ],
+        "second": 3
+      }
+    ],
+    "minecraft:mangrove_stairs": [
+      {
+        "first": [
+          {
+            "first": "minecraft:mangrove_planks",
+            "second": 6
+          }
+        ],
+        "second": 4
+      }
+    ],
+    "minecraft:mangrove_fence": [
+      {
+        "first": [
+          {
+            "first": "minecraft:mangrove_planks",
+            "second": 4
+          },
+          {
+            "first": "minecraft:stick",
+            "second": 2
+          }
+        ],
+        "second": 3
+      }
+    ],
+    "minecraft:mangrove_fence_gate": [
+      {
+        "first": [
+          {
+            "first": "minecraft:mangrove_planks",
+            "second": 2
+          },
+          {
+            "first": "minecraft:stick",
+            "second": 4
+          }
+        ],
+        "second": 1
+      }
+    ],
+    "minecraft:mangrove_slab": [
+      {
+        "first": [
+          {
+            "first": "minecraft:mangrove_planks",
+            "second": 3
+          }
+        ],
+        "second": 6
+      }
+    ],
+    "minecraft:crimson_planks": [
+      {
+        "first": [
+          {
+            "first": "#minecraft:crimson_stems",
+            "second": 1
+          }
+        ],
+        "second": 4
+      }
+    ],
+    "minecraft:crimson_door": [
+      {
+        "first": [
+          {
+            "first": "minecraft:crimson_planks",
+            "second": 6
+          }
+        ],
+        "second": 3
+      }
+    ],
+    "minecraft:crimson_stairs": [
+      {
+        "first": [
+          {
+            "first": "minecraft:crimson_planks",
+            "second": 6
+          }
+        ],
+        "second": 4
+      }
+    ],
+    "minecraft:crimson_fence": [
+      {
+        "first": [
+          {
+            "first": "minecraft:crimson_planks",
+            "second": 4
+          },
+          {
+            "first": "minecraft:stick",
+            "second": 2
+          }
+        ],
+        "second": 3
+      }
+    ],
+    "minecraft:crimson_fence_gate": [
+      {
+        "first": [
+          {
+            "first": "minecraft:crimson_planks",
+            "second": 2
+          },
+          {
+            "first": "minecraft:stick",
+            "second": 4
+          }
+        ],
+        "second": 1
+      }
+    ],
+    "minecraft:crimson_slab": [
+      {
+        "first": [
+          {
+            "first": "minecraft:crimson_planks",
+            "second": 3
+          }
+        ],
+        "second": 6
+      }
+    ],
+    "minecraft:warped_planks": [
+      {
+        "first": [
+          {
+            "first": "#minecraft:warped_stems",
+            "second": 1
+          }
+        ],
+        "second": 4
+      }
+    ],
+    "minecraft:warped_door": [
+      {
+        "first": [
+          {
+            "first": "minecraft:warped_planks",
+            "second": 6
+          }
+        ],
+        "second": 3
+      }
+    ],
+    "minecraft:warped_stairs": [
+      {
+        "first": [
+          {
+            "first": "minecraft:warped_planks",
+            "second": 6
+          }
+        ],
+        "second": 4
+      }
+    ],
+    "minecraft:warped_fence": [
+      {
+        "first": [
+          {
+            "first": "minecraft:warped_planks",
+            "second": 4
+          },
+          {
+            "first": "minecraft:stick",
+            "second": 2
+          }
+        ],
+        "second": 3
+      }
+    ],
+    "minecraft:warped_fence_gate": [
+      {
+        "first": [
+          {
+            "first": "minecraft:warped_planks",
+            "second": 2
+          },
+          {
+            "first": "minecraft:stick",
+            "second": 4
+          }
+        ],
+        "second": 1
+      }
+    ],
+    "minecraft:warped_slab": [
+      {
+        "first": [
+          {
+            "first": "minecraft:warped_planks",
+            "second": 3
+          }
+        ],
+        "second": 6
+      }
+    ],
+    "minecraft:cobblestone_slab": [
+      {
+        "first": [
+          {
+            "first": "minecraft:cobblestone",
+            "second": 3
+          }
+        ],
+        "second": 6
+      }
+    ],
+    "minecraft:cobblestone_stairs": [
+      {
+        "first": [
+          {
+            "first": "minecraft:cobblestone",
+            "second": 6
+          }
+        ],
+        "second": 4
+      }
+    ],
+    "minecraft:cobblestone_wall": [
+      {
+        "first": [
+          {
+            "first": "minecraft:cobblestone",
+            "second": 6
+          }
+        ],
+        "second": 6
+      }
+    ],
+    "minecraft:sandstone": [
+      {
+        "first": [
+          {
+            "first": "minecraft:sand",
+            "second": 4
+          }
+        ],
+        "second": 1
+      }
+    ],
+    "minecraft:sandstone_slab": [
+      {
+        "first": [
+          {
+            "first": "minecraft:sandstone",
+            "second": 3
+          }
+        ],
+        "second": 6
+      }
+    ],
+    "minecraft:sandstone_stairs": [
+      {
+        "first": [
+          {
+            "first": "minecraft:sandstone",
+            "second": 6
+          }
+        ],
+        "second": 4
+      }
+    ],
+    "minecraft:sandstone_wall": [
+      {
+        "first": [
+          {
+            "first": "minecraft:sandstone",
+            "second": 6
+          }
+        ],
+        "second": 6
+      }
+    ],
+    "minecraft:cut_sandstone": [
+      {
+        "first": [
+          {
+            "first": "minecraft:sandstone",
+            "second": 4
+          }
+        ],
+        "second": 4
+      }
+    ],
+    "minecraft:cut_sandstone_slab": [
+      {
+        "first": [
+          {
+            "first": "minecraft:cut_sandstone",
+            "second": 3
+          }
+        ],
+        "second": 6
+      }
+    ],
+    "minecraft:cut_sandstone_stairs": [
+      {
+        "first": [
+          {
+            "first": "minecraft:cut_sandstone",
+            "second": 6
+          }
+        ],
+        "second": 4
+      }
+    ],
+    "minecraft:cut_sandstone_wall": [
+      {
+        "first": [
+          {
+            "first": "minecraft:cut_sandstone",
+            "second": 6
+          }
+        ],
+        "second": 6
+      }
+    ],
+    "minecraft:red_sandstone": [
+      {
+        "first": [
+          {
+            "first": "minecraft:red_sand",
+            "second": 4
+          }
+        ],
+        "second": 1
+      }
+    ],
+    "minecraft:red_sandstone_slab": [
+      {
+        "first": [
+          {
+            "first": "minecraft:red_sandstone",
+            "second": 3
+          }
+        ],
+        "second": 6
+      }
+    ],
+    "minecraft:red_sandstone_stairs": [
+      {
+        "first": [
+          {
+            "first": "minecraft:red_sandstone",
+            "second": 6
+          }
+        ],
+        "second": 4
+      }
+    ],
+    "minecraft:red_sandstone_wall": [
+      {
+        "first": [
+          {
+            "first": "minecraft:red_sandstone",
+            "second": 6
+          }
+        ],
+        "second": 6
+      }
+    ],
+    "minecraft:cut_red_sandstone": [
+      {
+        "first": [
+          {
+            "first": "minecraft:red_sandstone",
+            "second": 4
+          }
+        ],
+        "second": 4
+      }
+    ],
+    "minecraft:cut_red_sandstone_slab": [
+      {
+        "first": [
+          {
+            "first": "minecraft:cut_red_sandstone",
+            "second": 3
+          }
+        ],
+        "second": 6
+      }
+    ],
+    "minecraft:cut_red_sandstone_stairs": [
+      {
+        "first": [
+          {
+            "first": "minecraft:cut_red_sandstone",
+            "second": 6
+          }
+        ],
+        "second": 4
+      }
+    ],
+    "minecraft:cut_red_sandstone_wall": [
+      {
+        "first": [
+          {
+            "first": "minecraft:cut_red_sandstone",
+            "second": 6
+          }
+        ],
+        "second": 6
+      }
+    ],
+    "minecraft:snow_block": [
+      {
+        "first": [
+          {
+            "first": "minecraft:snowball",
+            "second": 4
+          }
+        ],
+        "second": 1
+      }
+    ],
+    "minecraft:mud_bricks": [
+      {
+        "first": [
+          {
+            "first": "minecraft:packed_mud",
+            "second": 4
+          }
+        ],
+        "second": 4
+      }
+    ],
+    "minecraft:mud_brick_slab": [
+      {
+        "first": [
+          {
+            "first": "minecraft:mud_bricks",
+            "second": 3
+          }
+        ],
+        "second": 6
+      }
+    ],
+    "minecraft:mud_brick_stairs": [
+      {
+        "first": [
+          {
+            "first": "minecraft:mud_bricks",
+            "second": 6
+          }
+        ],
+        "second": 4
+      }
+    ],
+    "minecraft:mud_brick_wall": [
+      {
+        "first": [
+          {
+            "first": "minecraft:mud_bricks",
+            "second": 6
+          }
+        ],
+        "second": 6
+      }
+    ],
+    "minecraft:packed_mud": [
+      {
+        "first": [
+          {
+            "first": "minecraft:mud",
+            "second": 1
+          },
+          {
+            "first": "minecraft:wheat",
+            "second": 1
+          }
+        ],
+        "second": 1
+      }
+    ],
+    "minecraft:white_wool": [
+      {
+        "first": [
+          {
+            "first": "minecraft:string",
+            "second": 4
+          }
+        ],
+        "second": 1
+      }
+    ],
+    "minecraft:white_banner": [
+      {
+        "first": [
+          {
+            "first": "minecraft:white_wool",
+            "second": 6
+          },
+          {
+            "first": "minecraft:stick",
+            "second": 1
+          }
+        ],
+        "second": 1
+      }
+    ],
+    "minecraft:green_wool": [
+      {
+        "first": [
+          {
+            "first": "minecraft:green_dye",
+            "second": 1
+          },
+          {
+            "first": "minecraft:white_wool",
+            "second": 1
+          }
+        ],
+        "second": 1
+      }
+    ],
+    "minecraft:green_banner": [
+      {
+        "first": [
+          {
+            "first": "minecraft:green_wool",
+            "second": 6
+          },
+          {
+            "first": "minecraft:stick",
+            "second": 1
+          }
+        ],
+        "second": 1
+      }
+    ],
+    "minecraft:wooden_pickaxe": [
+      {
+        "first": [
+          {
+            "first": "#minecraft:planks",
+            "second": 3
+          },
+          {
+            "first": "minecraft:stick",
+            "second": 2
+          }
+        ],
+        "second": 1
+      }
+    ],
+    "minecraft:wooden_axe": [
+      {
+        "first": [
+          {
+            "first": "#minecraft:planks",
+            "second": 3
+          },
+          {
+            "first": "minecraft:stick",
+            "second": 2
+          }
+        ],
+        "second": 1
+      }
+    ],
+    "minecraft:wooden_sword": [
+      {
+        "first": [
+          {
+            "first": "#minecraft:planks",
+            "second": 2
+          },
+          {
+            "first": "minecraft:stick",
+            "second": 1
+          }
+        ],
+        "second": 1
+      }
+    ],
+    "minecraft:wooden_hoe": [
+      {
+        "first": [
+          {
+            "first": "#minecraft:planks",
+            "second": 2
+          },
+          {
+            "first": "minecraft:stick",
+            "second": 2
+          }
+        ],
+        "second": 1
+      }
+    ],
+    "minecraft:wooden_shovel": [
+      {
+        "first": [
+          {
+            "first": "#minecraft:planks",
+            "second": 1
+          },
+          {
+            "first": "minecraft:stick",
+            "second": 2
+          }
+        ],
+        "second": 1
+      }
+    ],
+    "minecraft:stone_pickaxe": [
+      {
+        "first": [
+          {
+            "first": "#minecraft:stone_tool_materials",
+            "second": 3
+          },
+          {
+            "first": "minecraft:stick",
+            "second": 2
+          }
+        ],
+        "second": 1
+      }
+    ],
+    "minecraft:stone_axe": [
+      {
+        "first": [
+          {
+            "first": "#minecraft:stone_tool_materials",
+            "second": 3
+          },
+          {
+            "first": "minecraft:stick",
+            "second": 2
+          }
+        ],
+        "second": 1
+      }
+    ],
+    "minecraft:stone_sword": [
+      {
+        "first": [
+          {
+            "first": "#minecraft:stone_tool_materials",
+            "second": 2
+          },
+          {
+            "first": "minecraft:stick",
+            "second": 1
+          }
+        ],
+        "second": 1
+      }
+    ],
+    "minecraft:stone_hoe": [
+      {
+        "first": [
+          {
+            "first": "#minecraft:stone_tool_materials",
+            "second": 2
+          },
+          {
+            "first": "minecraft:stick",
+            "second": 2
+          }
+        ],
+        "second": 1
+      }
+    ],
+    "minecraft:stone_shovel": [
+      {
+        "first": [
+          {
+            "first": "#minecraft:stone_tool_materials",
+            "second": 1
+          },
+          {
+            "first": "minecraft:stick",
+            "second": 2
+          }
+        ],
+        "second": 1
+      }
+    ],
+    "minecraft:golden_pickaxe": [
+      {
+        "first": [
+          {
+            "first": "minecraft:gold_ingot",
+            "second": 3
+          },
+          {
+            "first": "minecraft:stick",
+            "second": 2
+          }
+        ],
+        "second": 1
+      }
+    ],
+    "minecraft:golden_axe": [
+      {
+        "first": [
+          {
+            "first": "minecraft:gold_ingot",
+            "second": 3
+          },
+          {
+            "first": "minecraft:stick",
+            "second": 2
+          }
+        ],
+        "second": 1
+      }
+    ],
+    "minecraft:golden_sword": [
+      {
+        "first": [
+          {
+            "first": "minecraft:gold_ingot",
+            "second": 2
+          },
+          {
+            "first": "minecraft:stick",
+            "second": 1
+          }
+        ],
+        "second": 1
+      }
+    ],
+    "minecraft:golden_hoe": [
+      {
+        "first": [
+          {
+            "first": "minecraft:gold_ingot",
+            "second": 2
+          },
+          {
+            "first": "minecraft:stick",
+            "second": 2
+          }
+        ],
+        "second": 1
+      }
+    ],
+    "minecraft:golden_shovel": [
+      {
+        "first": [
+          {
+            "first": "minecraft:gold_ingot",
+            "second": 1
+          },
+          {
+            "first": "minecraft:stick",
+            "second": 2
+          }
+        ],
+        "second": 1
+      }
+    ],
+    "minecraft:iron_pickaxe": [
+      {
+        "first": [
+          {
+            "first": "minecraft:iron_ingot",
+            "second": 3
+          },
+          {
+            "first": "minecraft:stick",
+            "second": 2
+          }
+        ],
+        "second": 1
+      }
+    ],
+    "minecraft:iron_axe": [
+      {
+        "first": [
+          {
+            "first": "minecraft:iron_ingot",
+            "second": 3
+          },
+          {
+            "first": "minecraft:stick",
+            "second": 2
+          }
+        ],
+        "second": 1
+      }
+    ],
+    "minecraft:iron_sword": [
+      {
+        "first": [
+          {
+            "first": "minecraft:iron_ingot",
+            "second": 2
+          },
+          {
+            "first": "minecraft:stick",
+            "second": 1
+          }
+        ],
+        "second": 1
+      }
+    ],
+    "minecraft:iron_hoe": [
+      {
+        "first": [
+          {
+            "first": "minecraft:iron_ingot",
+            "second": 2
+          },
+          {
+            "first": "minecraft:stick",
+            "second": 2
+          }
+        ],
+        "second": 1
+      }
+    ],
+    "minecraft:iron_shovel": [
+      {
+        "first": [
+          {
+            "first": "minecraft:iron_ingot",
+            "second": 1
+          },
+          {
+            "first": "minecraft:stick",
+            "second": 2
+          }
+        ],
+        "second": 1
+      }
+    ],
+    "minecraft:diamond_pickaxe": [
+      {
+        "first": [
+          {
+            "first": "minecraft:diamond",
+            "second": 3
+          },
+          {
+            "first": "minecraft:stick",
+            "second": 2
+          }
+        ],
+        "second": 1
+      }
+    ],
+    "minecraft:diamond_axe": [
+      {
+        "first": [
+          {
+            "first": "minecraft:diamond",
+            "second": 3
+          },
+          {
+            "first": "minecraft:stick",
+            "second": 2
+          }
+        ],
+        "second": 1
+      }
+    ],
+    "minecraft:diamond_sword": [
+      {
+        "first": [
+          {
+            "first": "minecraft:diamond",
+            "second": 2
+          },
+          {
+            "first": "minecraft:stick",
+            "second": 1
+          }
+        ],
+        "second": 1
+      }
+    ],
+    "minecraft:diamond_hoe": [
+      {
+        "first": [
+          {
+            "first": "minecraft:diamond",
+            "second": 2
+          },
+          {
+            "first": "minecraft:stick",
+            "second": 2
+          }
+        ],
+        "second": 1
+      }
+    ],
+    "minecraft:diamond_shovel": [
+      {
+        "first": [
+          {
+            "first": "minecraft:diamond",
+            "second": 1
+          },
+          {
+            "first": "minecraft:stick",
+            "second": 2
+          }
+        ],
+        "second": 1
+      }
+    ],
+    "minecraft:bread": [
+      {
+        "first": [
+          {
+            "first": "minecraft:wheat",
+            "second": 3
+          }
+        ],
+        "second": 1
+      }
+    ],
+    "minecraft:stick": [
+      {
+        "first": [
+          {
+            "first": "#minecraft:planks",
+            "second": 2
+          }
+        ],
+        "second": 4
+      },
+      {
+        "first": [
+          {
+            "first": "minecraft:bamboo",
+            "second": 2
+          }
+        ],
+        "second": 1
+      }
+    ],
+    "minecraft:bone_meal": [
+      {
+        "first": [
+          {
+            "first": "minecraft:bone",
+            "second": 1
+          }
+        ],
+        "second": 3
+      },
+      {
+        "first": [
+          {
+            "first": "minecraft:bone_block",
+            "second": 1
+          }
+        ],
+        "second": 9
+      }
+    ],
+    "minecraft:torch": [
+      {
+        "first": [
+          {
+            "first": "minecraft:stick",
+            "second": 1
+          },
+          {
+            "first": "#minecraft:coals",
+            "second": 1
+          }
+        ],
+        "second": 4
+      }
+    ],
+    "minecraft:campfire": [
+      {
+        "first": [
+          {
+            "first": "#minecraft:logs",
+            "second": 3
+          },
+          {
+            "first": "minecraft:stick",
+            "second": 3
+          },
+          {
+            "first": "#minecraft:coals",
+            "second": 1
+          }
+        ],
+        "second": 1
+      }
+    ],
+    "minecraft:chest": [
+      {
+        "first": [
+          {
+            "first": "#minecraft:planks",
+            "second": 8
+          }
+        ],
+        "second": 1
+      }
+    ],
+    "minecraft:composter": [
+      {
+        "first": [
+          {
+            "first": "#minecraft:wooden_slabs",
+            "second": 7
+          }
+        ],
+        "second": 1
+      }
+    ],
+    "minecraft:white_bed": [
+      {
+        "first": [
+          {
+            "first": "minecraft:white_wool",
+            "second": 3
+          },
+          {
+            "first": "#minecraft:planks",
+            "second": 3
+          }
+        ],
+        "second": 1
+      }
+    ]
+  },
+  "smeltingRecipes": {
+    "minecraft:cooked_beef": [
+      {
+        "first": "minecraft:beef",
+        "second": "minecraft:smoker"
+      },
+      {
+        "first": "minecraft:beef",
+        "second": "minecraft:furnace"
+      },
+      {
+        "first": "minecraft:beef",
+        "second": "#minecraft:campfires"
+      }
+    ],
+    "minecraft:cooked_mutton": [
+      {
+        "first": "minecraft:mutton",
+        "second": "minecraft:smoker"
+      },
+      {
+        "first": "minecraft:mutton",
+        "second": "minecraft:furnace"
+      },
+      {
+        "first": "minecraft:mutton",
+        "second": "#minecraft:campfires"
+      }
+    ],
+    "minecraft:cooked_chicken": [
+      {
+        "first": "minecraft:chicken",
+        "second": "minecraft:smoker"
+      },
+      {
+        "first": "minecraft:chicken",
+        "second": "minecraft:furnace"
+      },
+      {
+        "first": "minecraft:chicken",
+        "second": "#minecraft:campfires"
+      }
+    ],
+    "minecraft:cooked_porkchop": [
+      {
+        "first": "minecraft:porkchop",
+        "second": "minecraft:smoker"
+      },
+      {
+        "first": "minecraft:porkchop",
+        "second": "minecraft:furnace"
+      },
+      {
+        "first": "minecraft:porkchop",
+        "second": "#minecraft:campfires"
+      }
+    ],
+    "minecraft:cooked_rabbit": [
+      {
+        "first": "minecraft:rabbit",
+        "second": "minecraft:smoker"
+      },
+      {
+        "first": "minecraft:rabbit",
+        "second": "minecraft:furnace"
+      },
+      {
+        "first": "minecraft:rabbit",
+        "second": "#minecraft:campfires"
+      }
+    ],
+    "minecraft:cooked_salmon": [
+      {
+        "first": "minecraft:salmon",
+        "second": "minecraft:smoker"
+      },
+      {
+        "first": "minecraft:salmon",
+        "second": "minecraft:furnace"
+      },
+      {
+        "first": "minecraft:salmon",
+        "second": "#minecraft:campfires"
+      }
+    ],
+    "minecraft:cooked_cod": [
+      {
+        "first": "minecraft:cod",
+        "second": "minecraft:smoker"
+      },
+      {
+        "first": "minecraft:cod",
+        "second": "minecraft:furnace"
+      },
+      {
+        "first": "minecraft:cod",
+        "second": "#minecraft:campfires"
+      }
+    ],
+    "minecraft:baked_potato": [
+      {
+        "first": "minecraft:potato",
+        "second": "minecraft:smoker"
+      },
+      {
+        "first": "minecraft:potato",
+        "second": "minecraft:furnace"
+      },
+      {
+        "first": "minecraft:potato",
+        "second": "#minecraft:campfires"
+      }
+    ],
+    "minecraft:iron_ingot": [
+      {
+        "first": "minecraft:raw_iron",
+        "second": "minecraft:furnace"
+      },
+      {
+        "first": "minecraft:raw_iron",
+        "second": "minecraft:blast_furnace"
+      }
+    ],
+    "minecraft:gold_ingot": [
+      {
+        "first": "minecraft:raw_gold",
+        "second": "minecraft:furnace"
+      },
+      {
+        "first": "minecraft:raw_gold",
+        "second": "minecraft:blast_furnace"
+      }
+    ],
+    "minecraft:copper_ingot": [
+      {
+        "first": "minecraft:raw_copper",
+        "second": "minecraft:furnace"
+      },
+      {
+        "first": "minecraft:raw_copper",
+        "second": "minecraft:blast_furnace"
+      }
+    ],
+    "minecraft:stone": [
+      {
+        "first": "minecraft:cobblestone",
+        "second": "minecraft:furnace"
+      }
+    ],
+    "minecraft:glass": [
+      {
+        "first": "minecraft:sand",
+        "second": "minecraft:furnace"
+      },
+      {
+        "first": "minecraft:red_sand",
+        "second": "minecraft:furnace"
+      }
+    ]
+  }
+}

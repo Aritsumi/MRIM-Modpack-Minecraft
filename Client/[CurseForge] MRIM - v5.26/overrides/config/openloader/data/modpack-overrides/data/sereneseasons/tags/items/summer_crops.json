@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "ashenwheat:ash_seeds",
+    "ashenwheat:ash_wheat_sheaf",
+    "ashenwheat:rotten_seeds",
+    "ashenwheat:flax_seed",
+    "ashenwheat:flax_fibre"
+  ]
+}
